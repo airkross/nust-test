@@ -1,1 +1,1 @@
-# nust-test
+https://airkross.github.io/nust-test/
